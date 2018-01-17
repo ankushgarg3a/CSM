@@ -13,7 +13,8 @@ Smart India Hackathon 2017 Grand Finale
 
 | Backend | Design  | Research  |
 | ------- | ------- | --------- |
-| [Mukul Garg](https://m4mukulgarg.github.io/about-me/) | Samridhi Jain | Ankush Garg |
+| [Mukul Garg](https://m4mukulgarg.github.io/about-me/) | Samridhi Jain | 
+| [Ankush Garg] (https://github.com/ankushgarg3a  ) |
 | [Sajal Garg](https://www.linkedin.com/in/sajal-garg-247609157/)  | Saurav Panwar  | Sarthak Sharma |
 
 ## Aim:
